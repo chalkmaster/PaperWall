@@ -1,0 +1,15 @@
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Infrastructure.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Infrastructure.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\Microsoft.Practices.Unity.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Repository.InMemory.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Repository.MySQL.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\MySql.Data.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Repository.InMemory.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\bin\Release\PaperWall.Repository.MySQL.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\obj\Release\PaperWall.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\obj\Release\PaperWall.Infrastructure.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure\obj\Release\PaperWall.Infrastructure.pdb

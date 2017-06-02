@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="A06E223F-0210-49BB-9588-798C1A9805AD" ModuleId="PaperWall.Core" />
+  <Module PersistentId="B84E8988-0372-4EFF-A2A0-C74667543FE5" ModuleId="PaperWall.Repository.MySQL" />
+  <Module PersistentId="8D7B2738-788C-4C56-BBFE-5F3861584B19" ModuleId="PaperWall.Infrastructure" />
+  <Module PersistentId="6652460A-2043-48C7-A8DB-4C3A1037458A" ModuleId="PaperWall.Infrastructure.Web" />
+  <Module PersistentId="1107796E-8559-4F6A-A4BC-41DDCC17A0F0" ModuleId="Paperwall.Web" />
+  <Module PersistentId="B3C67870-8030-4981-9676-8151444F9119" ModuleId="PaperWall.Web" />
+  <Module PersistentId="EA227689-9095-40CB-8C97-486E4934107D" ModuleId="Paperwall.Api" />
+</Modules>

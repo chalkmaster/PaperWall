@@ -1,0 +1,9 @@
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\bin\Debug\PaperWall.Repository.MySQL.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\bin\Debug\PaperWall.Repository.MySQL.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\bin\Debug\mysql.data.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\bin\Debug\mysql.data.entity.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\bin\Debug\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\bin\Debug\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\obj\Debug\PaperWall.Repository.MySQL.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\obj\Debug\PaperWall.Repository.MySQL.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.MySQL\obj\Debug\PaperWall.Repository.MySQL.csprojResolveAssemblyReference.cache

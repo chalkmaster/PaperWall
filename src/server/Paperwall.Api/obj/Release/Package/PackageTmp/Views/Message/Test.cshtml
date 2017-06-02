@@ -1,0 +1,60 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "Test Page";
+}
+
+<h2>Messagens Aqui</h2>
+<ul id="mensagens">
+</ul>
+
+<h2>Deixar nova mensagem</h2>
+
+@{
+    using (Html.BeginForm("Post", "Message", FormMethod.Post, new {id = "postMessageForm"}))
+    {
+
+    }
+}
+
+<script type="text/javascript">
+    var locationData;
+    
+    $('#postMessageForm').click(function () {
+        $('#postMessage').submit();
+    });
+
+    var loadMessages = function (messagens) {
+        $(messagens).each(function (e, message) {
+            $('#mensagens').append('<li>' + message.MessageText + ' - ' + message.PostedAt + '</li>');
+        });
+    };
+
+    $().ready(function () {
+        navigator.geolocation.getCurrentPosition(
+            function (position) {
+                locationData = {
+                    latitude: position.coords.latitude,
+                    longitude: position.coords.longitude,
+                    precision: position.coords.accuracy,
+                    readerIdentification: 'abc'
+                };
+
+                $('#postMessageForm').append('<label for="messageText">Mensagem</label>');
+                $('#postMessageForm').append('<input type=text id=messageText name=messageText />');
+                $('#postMessageForm').append('<input type="submit" id="postMessage" value="OK"/>');
+                $('#postMessageForm').append('<input type=hidden id=latitude name=latitude value=' + locationData.latitude + " />");
+                $('#postMessageForm').append('<input type=hidden id=longitude name=longitude value=' + locationData.longitude + " />");
+                $('#postMessageForm').append('<input type=hidden id=precision name=precision value=' + locationData.precision + " />");
+                $('#postMessageForm').append('<input type=hidden id=writerIdentification name=writerIdentification value=' + locationData.readerIdentification + ' />');
+
+                $.get('@Url.Action("Get","Message")'
+                , locationData, function(data) {
+                    loadMessages(data);
+                });
+                
+            }
+        );
+    });
+
+</script>

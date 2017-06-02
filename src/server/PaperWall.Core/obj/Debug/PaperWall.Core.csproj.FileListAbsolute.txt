@@ -1,0 +1,9 @@
+D:\Charles\Pessoal\projects\PaperWall.Core\bin\Debug\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall.Core\bin\Debug\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall.Core\obj\Debug\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall.Core\obj\Debug\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Core\bin\Debug\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Core\bin\Debug\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Core\obj\Debug\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Core\obj\Debug\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Core\obj\Debug\PaperWall.Core.csprojResolveAssemblyReference.cache

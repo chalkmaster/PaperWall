@@ -1,0 +1,7 @@
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\bin\Release\PaperWall.Repository.InMemory.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\bin\Release\PaperWall.Repository.InMemory.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\bin\Release\PaperWall.Core.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\bin\Release\PaperWall.Core.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\obj\Release\PaperWall.Repository.InMemory.csprojResolveAssemblyReference.cache
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\obj\Release\PaperWall.Repository.InMemory.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Repository.InMemory\obj\Release\PaperWall.Repository.InMemory.pdb

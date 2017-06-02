@@ -1,0 +1,5 @@
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure.Web\bin\Release\PaperWall.Infrastructure.Web.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure.Web\bin\Release\PaperWall.Infrastructure.Web.pdb
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure.Web\obj\Release\PaperWall.Infrastructure.Web.csprojResolveAssemblyReference.cache
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure.Web\obj\Release\PaperWall.Infrastructure.Web.dll
+D:\Charles\Pessoal\projects\PaperWall\PaperWall.Infrastructure.Web\obj\Release\PaperWall.Infrastructure.Web.pdb

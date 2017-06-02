@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{BA99AFED-9167-4C6B-9A63-5E4E313F72CC}"
+	ProjectSection(SolutionItems) = preProject
+		Database\DataBaseScript001.sql = Database\DataBaseScript001.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperWall.Infrastructure", "PaperWall.Infrastructure\PaperWall.Infrastructure.csproj", "{8D7B2738-788C-4C56-BBFE-5F3861584B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperWall.Repository.MySQL", "PaperWall.Repository.MySQL\PaperWall.Repository.MySQL.csproj", "{B84E8988-0372-4EFF-A2A0-C74667543FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperWall.Repository.InMemory", "PaperWall.Repository.InMemory\PaperWall.Repository.InMemory.csproj", "{C4E4DBE8-CB4C-42B1-89B6-CA29BF355BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperWall.Infrastructure.Web", "PaperWall.Infrastructure.Web\PaperWall.Infrastructure.Web.csproj", "{6652460A-2043-48C7-A8DB-4C3A1037458A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperWall.Core", "PaperWall.Core\PaperWall.Core.csproj", "{A06E223F-0210-49BB-9588-798C1A9805AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperWall.Web", "PaperWall.Web\PaperWall.Web.csproj", "{B3C67870-8030-4981-9676-8151444F9119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paperwall.Api", "Paperwall.Api\Paperwall.Api.csproj", "{EA227689-9095-40CB-8C97-486E4934107D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chalk.tfspreview.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PaperWall.Core\\PaperWall.Core.csproj
+		SccProjectName1 = PaperWall.Core
+		SccLocalPath1 = PaperWall.Core
+		SccProjectUniqueName2 = PaperWall.Infrastructure.Web\\PaperWall.Infrastructure.Web.csproj
+		SccProjectName2 = PaperWall.Infrastructure.Web
+		SccLocalPath2 = PaperWall.Infrastructure.Web
+		SccProjectUniqueName3 = PaperWall.Infrastructure\\PaperWall.Infrastructure.csproj
+		SccProjectName3 = PaperWall.Infrastructure
+		SccLocalPath3 = PaperWall.Infrastructure
+		SccProjectUniqueName4 = PaperWall.Repository.InMemory\\PaperWall.Repository.InMemory.csproj
+		SccProjectName4 = PaperWall.Repository.InMemory
+		SccLocalPath4 = PaperWall.Repository.InMemory
+		SccProjectUniqueName5 = PaperWall.Repository.MySQL\\PaperWall.Repository.MySQL.csproj
+		SccProjectName5 = PaperWall.Repository.MySQL
+		SccLocalPath5 = PaperWall.Repository.MySQL
+		SccProjectUniqueName6 = PaperWall.Web\\PaperWall.Web.csproj
+		SccProjectName6 = PaperWall.Web
+		SccLocalPath6 = PaperWall.Web
+		SccProjectUniqueName7 = Paperwall.Api\\Paperwall.Api.csproj
+		SccProjectName7 = Paperwall.Api
+		SccLocalPath7 = Paperwall.Api
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7B2738-788C-4C56-BBFE-5F3861584B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7B2738-788C-4C56-BBFE-5F3861584B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7B2738-788C-4C56-BBFE-5F3861584B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7B2738-788C-4C56-BBFE-5F3861584B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84E8988-0372-4EFF-A2A0-C74667543FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84E8988-0372-4EFF-A2A0-C74667543FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84E8988-0372-4EFF-A2A0-C74667543FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84E8988-0372-4EFF-A2A0-C74667543FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E4DBE8-CB4C-42B1-89B6-CA29BF355BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E4DBE8-CB4C-42B1-89B6-CA29BF355BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E4DBE8-CB4C-42B1-89B6-CA29BF355BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E4DBE8-CB4C-42B1-89B6-CA29BF355BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6652460A-2043-48C7-A8DB-4C3A1037458A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6652460A-2043-48C7-A8DB-4C3A1037458A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6652460A-2043-48C7-A8DB-4C3A1037458A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6652460A-2043-48C7-A8DB-4C3A1037458A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06E223F-0210-49BB-9588-798C1A9805AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06E223F-0210-49BB-9588-798C1A9805AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06E223F-0210-49BB-9588-798C1A9805AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06E223F-0210-49BB-9588-798C1A9805AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C67870-8030-4981-9676-8151444F9119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C67870-8030-4981-9676-8151444F9119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C67870-8030-4981-9676-8151444F9119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C67870-8030-4981-9676-8151444F9119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA227689-9095-40CB-8C97-486E4934107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA227689-9095-40CB-8C97-486E4934107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA227689-9095-40CB-8C97-486E4934107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA227689-9095-40CB-8C97-486E4934107D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="8D7B2738-788C-4C56-BBFE-5F3861584B19/d:Unity/f:UnityDependencyResolver.cs" caret="316" fromTop="10" />
+    <File id="A06E223F-0210-49BB-9588-798C1A9805AD/d:Repository/f:IMessageRepository.cs" caret="0" fromTop="0" />
+    <File id="A06E223F-0210-49BB-9588-798C1A9805AD/d:DomainObject/f:Message.cs" caret="0" fromTop="0" />
+    <File id="B84E8988-0372-4EFF-A2A0-C74667543FE5/f:MySQLMessageFinderProvider.cs" caret="803" fromTop="13" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/f:Web.config" caret="991" fromTop="14" />
+    <File id="B3C67870-8030-4981-9676-8151444F9119/f:Web.config" caret="262" fromTop="9" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Views/d:Home/f:Index.cshtml" caret="531" fromTop="15" />
+    <File id="B3C67870-8030-4981-9676-8151444F9119/d:Views/d:Shared/f:_Layout.cshtml" caret="536" fromTop="15" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Views/d:Message/f:Test.cshtml" caret="322" fromTop="20" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:App_Start/f:RouteConfig.cs" caret="344" fromTop="13" />
+    <File id="6652460A-2043-48C7-A8DB-4C3A1037458A/f:DoubleModelBinder.cs" caret="847" fromTop="19" />
+    <File id="B3C67870-8030-4981-9676-8151444F9119/f:Global.asax.cs" caret="1417" fromTop="10" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/f:Global.asax.cs" caret="639" fromTop="4" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:App_Start/f:WebApiConfig.cs" caret="301" fromTop="12" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:ValuesController.cs" caret="137" fromTop="0" />
+    <File id="B84E8988-0372-4EFF-A2A0-C74667543FE5/f:MySQLMessageRepository.cs" caret="5612" fromTop="7" />
+    <File id="B3C67870-8030-4981-9676-8151444F9119/d:Controllers/f:MessageController.cs" caret="12" fromTop="0" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:TesteController.cs" caret="0" fromTop="0" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:MessageDataModel.cs" caret="195" fromTop="9" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:FodasAMesnsagem.cs" caret="163" fromTop="7" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2147" fromTop="23" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Views/d:Message/f:Test.cshtml" caret="54" fromTop="3" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Views/d:Shared/f:_Layout.cshtml" caret="313" fromTop="11" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Views/d:Shared/f:_Layout.cshtml" caret="313" fromTop="11" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2259" fromTop="44" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="1598" fromTop="27" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:MessageDataModel.cs" caret="0" fromTop="0" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2249" fromTop="42" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="291" fromTop="5" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:App_Start/f:RouteConfig.cs" caret="532" fromTop="18" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:TesteController.cs" caret="288" fromTop="13" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="960" fromTop="11" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="1465" fromTop="11" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2249" fromTop="21" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2249" fromTop="31" />
+    <File id="B3C67870-8030-4981-9676-8151444F9119/d:Controllers/f:MessageController.cs" caret="1096" fromTop="14" />
+    <File id="B3C67870-8030-4981-9676-8151444F9119/d:Controllers/f:MessageController.cs" caret="1598" fromTop="22" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/f:Global.asax.cs" caret="705" fromTop="6" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:App_Start/f:WebApiConfig.cs" caret="301" fromTop="12" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="702" fromTop="11" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="1598" fromTop="1" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="1598" fromTop="10" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:MessageDataModel.cs" caret="139" fromTop="7" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:FodasAMesnsagem.cs" caret="13" fromTop="0" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:FodasAMesnsagem.cs" caret="356" fromTop="13" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Models/f:FodasAMesnsagem.cs" caret="163" fromTop="7" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2249" fromTop="15" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2249" fromTop="25" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="1661" fromTop="10" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="2023" fromTop="18" />
+    <File id="EA227689-9095-40CB-8C97-486E4934107D/d:Controllers/f:MessageController.cs" caret="621" fromTop="16" />
+  </RecentEdits>
+</RecentFiles>
